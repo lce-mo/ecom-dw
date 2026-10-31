@@ -2,3 +2,5 @@
 data/
 *.duckdb
 __pycache__/
+docs/
+.statamcp/
